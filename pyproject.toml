@@ -1,0 +1,12 @@
+[Sellery Fight Club]
+name = "film-app"
+version = "0.1.0"
+description = "python-based movie tracker for searching, saving, and organizing films "
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "monsterui>=1.0.36",
+    "python-dotenv>=1.2.1",
+    "httpx==0.27.2",
+    "python-fasthtml>=0.12.36",
+]
